@@ -58,8 +58,8 @@ To run this project locally, follow these steps:
 If you have any questions or would like to collaborate, feel free to reach out:
 
 - Email: [sreesanthcontact@gmail.com](mailto:sreesanthcontact@gmail.com)
-- LinkedIn: [Suraj Singh]([https://www.linkedin.com/in/suraj-singh-40b16a323](https://www.linkedin.com/in/sree-santh-s-51b001334/))
-- GitHub: [Surajsingh-6]([https://github.com/Surajsingh-6](https://github.com/Sree-santh))
+- LinkedIn: [Sreesanth]([https://www.linkedin.com/in/suraj-singh-40b16a323](https://www.linkedin.com/in/sree-santh-s-51b001334/))
+- GitHub: [Sree_santh]([https://github.com/Surajsingh-6](https://github.com/Sree-santh))
 
 ---
 
